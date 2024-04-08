@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:08-04-2024
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
@@ -40,7 +40,7 @@ Publish the website in the given URL.
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
-    background-color: rgb(182, 69, 73);
+    background-color: rgb(37, 24, 182);
 }
 .edge {
     width: 100%;
@@ -53,7 +53,7 @@ body {
     width: 500px;
     min-height: 300px;
     font-size: 20px;
-    background-color: rgb(245, 179, 223);
+    background-color: rgb(20, 252, 74);
 }
 .formelt {
     color: rgb(215, 150, 112);
@@ -91,6 +91,7 @@ h1 {
 </div>
 </body>
 </html>
+
 ```
 ```
 from django.shortcuts import render
